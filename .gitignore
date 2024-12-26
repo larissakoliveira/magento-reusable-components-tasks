@@ -1,5 +1,6 @@
 .env
 /var/
+/pub/
 /pub/static/
 /pub/media/
 /generated/
